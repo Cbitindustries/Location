@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/Cbitindustries/Location.git"
   },
+  "engines": {
+    "node": "12.18.4",
+    "npm": "6.14.6"
+  },
   "author": "Cbitindustries",
   "license": "MIT",
   "bugs": {
